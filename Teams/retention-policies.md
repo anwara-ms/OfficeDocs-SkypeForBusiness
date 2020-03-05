@@ -7,6 +7,7 @@ ms.topic: conceptual
 ms.service: msteams
 audience: admin
 ms.reviewer: prvijay
+ms.reviewer: anwara
 description: Learn about retention policies and how to create and manage them in Teams.
 localization_priority: Normal
 search.appverid: MET150
