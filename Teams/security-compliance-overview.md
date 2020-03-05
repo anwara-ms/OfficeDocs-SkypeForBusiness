@@ -6,6 +6,7 @@ manager: serdars
 ms.topic: conceptual
 ms.service: msteams
 ms.reviewer: anach
+ms.reviewer: anwara
 audience: admin
 description: An overview of security and compliance features of Microsoft Teams, including auditing and reporting, compliance content search, eDiscovery, and more.
 localization_priority: Normal
